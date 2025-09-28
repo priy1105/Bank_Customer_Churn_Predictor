@@ -1,8 +1,6 @@
-# Bank Churn Prediction
+# 🏦 Bank Customer Churn Predictor
+This repository contains a complete machine learning project focused on predicting customer churn (attrition) for a bank. The data used for training and testing the models is stored in `Bank_Churn.csv`.
 
-This repository contains the code for predicting customer churn in a bank using various machine learning models. The data used for training and testing the models is stored in `Bank_Churn.csv`.
-
----
 
 ## Table of Contents
 
