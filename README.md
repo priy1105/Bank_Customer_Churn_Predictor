@@ -217,17 +217,6 @@ Ensure that the `deploy.py` file is set as the main entry point for the applicat
 
 ---
 
-**Deployment**  
-Once the files are added and configured, your Space will automatically build and deploy your Gradio application. The deployment status can be tracked on the Hugging Face Spaces interface.
-
----
-
-**Accessing the Application**  
-After successful deployment, you can access your Gradio interface through the link provided by Hugging Face Spaces. Users can interact with the interface to make predictions using the deployed machine learning model.
-You can access the web application [HERE](https://huggingface.co/spaces/phenomkay/Bank_Churn)
-
----
-
 ## Conclusion
 
 This project demonstrates how to preprocess data, train multiple machine learning models, and evaluate their performance for predicting customer churn in a bank. The XGBoost model achieved the highest accuracy and AUC score.
